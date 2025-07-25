@@ -13,4 +13,5 @@ How to Run the game:
 - Make sure Java is installed. If not, [download it here](https://www.oracle.com/java/technologies/javase-downloads.html).
 - Open terminal/command prompt.
 - Navigate to the folder where the file is located.
--  Compile the code:
+-  Compile the code.
+-  Run the code.
