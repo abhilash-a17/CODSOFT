@@ -14,4 +14,4 @@ How to Run the game:
 - Open terminal/command prompt.
 - Navigate to the folder where the file is located.
 -  Compile the code.
--  Run the code.
+-  Run the code
